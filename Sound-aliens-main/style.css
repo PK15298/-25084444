@@ -1,0 +1,15 @@
+.header_div{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.main_division{
+    background-color: rgb(255, 116, 223);
+    color: black;
+}
+.footer{
+    background-color:rgb(255, 255, 255);
+    color:black;
+    position:fixed;
+    width:100%;
+    text-align:center;
+}
